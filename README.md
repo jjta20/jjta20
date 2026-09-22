@@ -20,36 +20,28 @@ Me apasiona enseñar a las nuevas generaciones a comprender cómo funcionan real
 
 ### Lenguajes y desarrollo
 
-<p align="left">
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white
-  https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white
-  https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white
-  https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white
-</p>
+![Python](https://img.shields.iohon-3776AB?style=for-the-badge&logo=python&logoColor=white
+![PyCharm](https://img/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white
+![Bash](https://img.shields.io/badgeAA25?style=for-the-badge&logo=gnubash&logoColor=white
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Sistemas operativos y virtualización
 
-<p align="left">
-  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black
-  https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white
-  https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&amp;logo=manjaro&amp;logoColor=white
-  https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&amp;logo=windows11&amp;logoColor=white
-  https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white
-</p>
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white
+![Windows 11](https://img.shields.io/11-0078D4?style=for-the-badge&logo=windows11&logoColor=white
+![Virtualmg.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white
 
 ### Control de versiones y colaboración
 
-<p align="left">
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white
-  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Inteligencia artificial y productividad
 
-<p align="left">
-  https://img.shields.io/badge/Inteligencia_artificial-412991?style=for-the-badge&amp;logoColor=white
-  https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white
-</p>
+https://img.shields.io/badge/Inteligencia_artificial-412991?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white
 
 ---
 
