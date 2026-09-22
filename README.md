@@ -5,9 +5,9 @@
 Me apasiona enseñar a las nuevas generaciones a comprender cómo funcionan realmente la programación, las redes y la inteligencia artificial, fomentando el pensamiento crítico y el aprendizaje práctico, más allá de limitarse a copiar el código generado por una IA.
 
 - 🔭 Durante el curso 2026-2027 imparto:
-  - **CFGM de Sistemas Microinformáticos y Redes (SMR)**: Servicios en Red.
-  - **CFGS de Desarrollo de Aplicaciones Web (DAW)**: Programación y Entornos de Desarrollo.
-  - **Curso de Especialización en Inteligencia Artificial y Big Data**: Modelos de inteligencia artificial.
+  - **CFGM de Sistemas Microinformáticos y Redes (SMR):** Servicios en Red.
+  - **CFGS de Desarrollo de Aplicaciones Web (DAW):** Programación y Entornos de Desarrollo.
+  - **Curso de Especialización en Inteligencia Artificial y Big Data:** Modelos de inteligencia artificial.
 - 🐍 Utilizo **Python** como lenguaje principal para la enseñanza de la programación.
 - 🐧 Trabajo con **Ubuntu Server 26.04** en las prácticas de Servicios en Red.
 - 🌱 Siempre estoy aprendiendo nuevas tecnologías para acercarlas al aula.
@@ -18,17 +18,37 @@ Me apasiona enseñar a las nuevas generaciones a comprender cómo funcionan real
 
 ## 🛠️ Tecnologías y herramientas
 
+### Lenguajes y desarrollo
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB-the-badge&logo=python&logoColor=white
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&rm&logoColor=white
-  <img src="httpselds.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=dge&logo=ubuntu&logoColor=white
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https:/ds.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white
-  <img src="https://img.shields.io/badge/Inteligencia_artificial-412991?styleadge&logoColor=white
-  <img src="g.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white
+  https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white
+  https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white
+  https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white
+</p>
+
+### Sistemas operativos y virtualización
+
+<p align="left">
+  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black
+  https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white
+  https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&amp;logo=manjaro&amp;logoColor=white
+  https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&amp;logo=windows11&amp;logoColor=white
+  https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white
+</p>
+
+### Control de versiones y colaboración
+
+<p align="left">
+  https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white
+  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white
+</p>
+
+### Inteligencia artificial y productividad
+
+<p align="left">
+  https://img.shields.io/badge/Inteligencia_artificial-412991?style=for-the-badge&amp;logoColor=white
+  https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white
 </p>
 
 ---
@@ -77,10 +97,11 @@ Me apasiona enseñar a las nuevas generaciones a comprender cómo funcionan real
 ## 📊 Mis estadísticas en GitHub
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=jjta20&show_icons=true&theme=tokyonight&hide_border=true&locale=es
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjta20&&theme=tokyonight&hide_border=true&locale=es
+  https://github-readme-stats.vercel.app/api?username=jjta20&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=es
+</p>
+
+<p align="center">
+  https://github-readme-stats.vercel.app/api/top-langs/?username=jjta20&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=es
 </p>
 
 ---
