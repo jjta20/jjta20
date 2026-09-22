@@ -1,11 +1,11 @@
 # ¡Hola a todos! 👋 Soy Javier Torre Antúnez
 
-👨‍🏫 Profesor de Formación Profesional en la especialidad de Informática en el **IES Newton-Salas**.
+👨‍🏫 Profesor de Formación Profesional en la especialidad de Informática en el **IES Arcipreste de Hita**.
 Apasionado por enseñar a las nuevas generaciones a entender el código, no solo a copiarlo de las IAs.
 
-* 🔭 Actualmente impartiendo: **DAM -> Programación, Entornos de Desarrollo y Programación de Servicios y Procesos**.
+* 🔭 Actualmente impartiendo: **DAW -> Programación, Entornos de Desarrollo**.
 * 🌱 Siempre aprendiendo nuevas tecnologías para llevar al aula.
-* 💬 Pregúntame sobre: Java, Git, buenas prácticas de código o cómo sobrevivir a NetBeans ☕.
+* 💬 Pregúntame sobre: Python, Java, Git, buenas prácticas de código o cómo sobrevivir a los IDEs ☕.
 
 ---
 
